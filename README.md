@@ -1,8 +1,8 @@
 <!-- Banner Image -->
-
 <p align="center">
-  <img src="assets/banner.png" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co/n8t3NwXM/gig-image-1.png" alt="Professional Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋,This is Md Fahim</h1>
 <h3 align="center">💻 Mobile App Developer | 🛡️ Ethical Hacker | 🧠 Tech Explorer</h3>
