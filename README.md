@@ -1,6 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/n8t3NwXM/gig-image-1.png" alt="Professional Banner" width="100%" />
+  <img src="https://i.ibb.co/HprdR4TS/icons8-hacker-96-1.png" alt="Hacker Icon" width="100" />
+</p>
+
+<!-- Cool/Coding GIF Below Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" />
 </p>
 
 
