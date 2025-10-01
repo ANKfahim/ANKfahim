@@ -3,12 +3,6 @@
   <img src="https://i.ibb.co/HprdR4TS/icons8-hacker-96-1.png" alt="Hacker Icon" width="100" />
 </p>
 
-<!-- Cool/Coding GIF Below Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" />
-</p>
-
-
 <h1 align="center">Hi 👋,This is Md Fahim</h1>
 <h3 align="center">💻 Mobile App Developer | 🛡️ Ethical Hacker | 🧠 Tech Explorer</h3>
 
@@ -20,13 +14,26 @@
 
 ---
 
-### 🧑‍💻 About Me
+<table>
+  <tr>
+    <!-- Left Side: About Me -->
+    <td>
+      <h2>🙋‍♂️ 💻 About Me</h2>
+      <ul>
+        <li>⚒️ I’m currently working as a <strong>Professional Mobile App Developer</strong></li>
+        <li>🛡️ Ethical Hacker passionate about cybersecurity and secure app development</li>
+        <li>🌐 Skilled in full-stack development & server administration</li>
+        <li>🌱 I’m always learning new tools and technologies</li>
+        <li>🤝 Open for freelance & collaborative projects</li>
+      </ul>
+    </td>
 
-- 🔭 I’m currently working as a **Professional Mobile App Developer**  
-- 🛡️ Ethical Hacker passionate about cybersecurity and secure app development  
-- 🌐 Skilled in full-stack development & server administration  
-- 🌱 I’m always learning new tools and technologies  
-- 🤝 Open for freelance & collaborative projects  
+  
+   <td>
+      <img src="https://github.com/user-attachments/assets/5a523c36-afd3-486c-8d38-21487a5b528f" alt="Coding GIF" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
